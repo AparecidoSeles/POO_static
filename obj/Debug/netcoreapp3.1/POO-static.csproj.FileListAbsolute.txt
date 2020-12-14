@@ -1,0 +1,13 @@
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-static\bin\Debug\netcoreapp3.1\POO-static.exe
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-static\bin\Debug\netcoreapp3.1\POO-static.deps.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-static\bin\Debug\netcoreapp3.1\POO-static.runtimeconfig.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-static\bin\Debug\netcoreapp3.1\POO-static.runtimeconfig.dev.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-static\bin\Debug\netcoreapp3.1\POO-static.dll
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-static\bin\Debug\netcoreapp3.1\POO-static.pdb
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-static\obj\Debug\netcoreapp3.1\POO-static.csprojAssemblyReference.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-static\obj\Debug\netcoreapp3.1\POO-static.AssemblyInfoInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-static\obj\Debug\netcoreapp3.1\POO-static.AssemblyInfo.cs
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-static\obj\Debug\netcoreapp3.1\POO-static.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-static\obj\Debug\netcoreapp3.1\POO-static.dll
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-static\obj\Debug\netcoreapp3.1\POO-static.pdb
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-static\obj\Debug\netcoreapp3.1\POO-static.genruntimeconfig.cache
